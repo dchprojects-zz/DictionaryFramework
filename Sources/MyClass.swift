@@ -9,4 +9,8 @@ import Foundation
 
 public class MyClass {
     
+    public init() {
+        debugPrint(#function)
+    }
+    
 }
