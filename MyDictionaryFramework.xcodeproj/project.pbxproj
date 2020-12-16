@@ -10,42 +10,6 @@
 		22E488F2258A5FFF00BEEF5F /* MyDictionaryFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 22E488F1258A5FF500BEEF5F /* MyDictionaryFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		22E488F6258A600000BEEF5F /* MyDictionaryFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 22E488F1258A5FF500BEEF5F /* MyDictionaryFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		22E488FA258A600000BEEF5F /* MyDictionaryFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 22E488F1258A5FF500BEEF5F /* MyDictionaryFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		22E48935258A6D5400BEEF5F /* UpdateWordProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48930258A6D5400BEEF5F /* UpdateWordProtocol.swift */; };
-		22E48936258A6D5400BEEF5F /* UpdateWordProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48930258A6D5400BEEF5F /* UpdateWordProtocol.swift */; };
-		22E48937258A6D5400BEEF5F /* UpdateWordProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48930258A6D5400BEEF5F /* UpdateWordProtocol.swift */; };
-		22E48938258A6D5400BEEF5F /* DeleteWordProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48931258A6D5400BEEF5F /* DeleteWordProtocol.swift */; };
-		22E48939258A6D5400BEEF5F /* DeleteWordProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48931258A6D5400BEEF5F /* DeleteWordProtocol.swift */; };
-		22E4893A258A6D5400BEEF5F /* DeleteWordProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48931258A6D5400BEEF5F /* DeleteWordProtocol.swift */; };
-		22E4893B258A6D5400BEEF5F /* FetchWordProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48932258A6D5400BEEF5F /* FetchWordProtocol.swift */; };
-		22E4893C258A6D5400BEEF5F /* FetchWordProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48932258A6D5400BEEF5F /* FetchWordProtocol.swift */; };
-		22E4893D258A6D5400BEEF5F /* FetchWordProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48932258A6D5400BEEF5F /* FetchWordProtocol.swift */; };
-		22E4893E258A6D5400BEEF5F /* CRUDWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48933258A6D5400BEEF5F /* CRUDWord.swift */; };
-		22E4893F258A6D5400BEEF5F /* CRUDWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48933258A6D5400BEEF5F /* CRUDWord.swift */; };
-		22E48940258A6D5400BEEF5F /* CRUDWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48933258A6D5400BEEF5F /* CRUDWord.swift */; };
-		22E48941258A6D5400BEEF5F /* AddWordProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48934258A6D5400BEEF5F /* AddWordProtocol.swift */; };
-		22E48942258A6D5400BEEF5F /* AddWordProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48934258A6D5400BEEF5F /* AddWordProtocol.swift */; };
-		22E48943258A6D5400BEEF5F /* AddWordProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48934258A6D5400BEEF5F /* AddWordProtocol.swift */; };
-		22E48949258A6DB700BEEF5F /* WordModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48948258A6DB700BEEF5F /* WordModel.swift */; };
-		22E4894A258A6DB700BEEF5F /* WordModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48948258A6DB700BEEF5F /* WordModel.swift */; };
-		22E4894B258A6DB700BEEF5F /* WordModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48948258A6DB700BEEF5F /* WordModel.swift */; };
-		22E48956258A6E3300BEEF5F /* ResultDeletedWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48950258A6E3300BEEF5F /* ResultDeletedWord.swift */; };
-		22E48957258A6E3300BEEF5F /* ResultDeletedWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48950258A6E3300BEEF5F /* ResultDeletedWord.swift */; };
-		22E48958258A6E3300BEEF5F /* ResultDeletedWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48950258A6E3300BEEF5F /* ResultDeletedWord.swift */; };
-		22E48959258A6E3300BEEF5F /* FetchResultWordsCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48951258A6E3300BEEF5F /* FetchResultWordsCount.swift */; };
-		22E4895A258A6E3300BEEF5F /* FetchResultWordsCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48951258A6E3300BEEF5F /* FetchResultWordsCount.swift */; };
-		22E4895B258A6E3300BEEF5F /* FetchResultWordsCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48951258A6E3300BEEF5F /* FetchResultWordsCount.swift */; };
-		22E4895C258A6E3300BEEF5F /* ResultSaved.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48952258A6E3300BEEF5F /* ResultSaved.swift */; };
-		22E4895D258A6E3300BEEF5F /* ResultSaved.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48952258A6E3300BEEF5F /* ResultSaved.swift */; };
-		22E4895E258A6E3300BEEF5F /* ResultSaved.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48952258A6E3300BEEF5F /* ResultSaved.swift */; };
-		22E4895F258A6E3300BEEF5F /* ResultSavedWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48953258A6E3300BEEF5F /* ResultSavedWord.swift */; };
-		22E48960258A6E3300BEEF5F /* ResultSavedWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48953258A6E3300BEEF5F /* ResultSavedWord.swift */; };
-		22E48961258A6E3300BEEF5F /* ResultSavedWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48953258A6E3300BEEF5F /* ResultSavedWord.swift */; };
-		22E48962258A6E3300BEEF5F /* FetchResultWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48954258A6E3300BEEF5F /* FetchResultWords.swift */; };
-		22E48963258A6E3300BEEF5F /* FetchResultWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48954258A6E3300BEEF5F /* FetchResultWords.swift */; };
-		22E48964258A6E3300BEEF5F /* FetchResultWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48954258A6E3300BEEF5F /* FetchResultWords.swift */; };
-		22E48965258A6E3300BEEF5F /* ResultWithoutSuccessGeneric.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48955258A6E3300BEEF5F /* ResultWithoutSuccessGeneric.swift */; };
-		22E48966258A6E3300BEEF5F /* ResultWithoutSuccessGeneric.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48955258A6E3300BEEF5F /* ResultWithoutSuccessGeneric.swift */; };
-		22E48967258A6E3300BEEF5F /* ResultWithoutSuccessGeneric.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E48955258A6E3300BEEF5F /* ResultWithoutSuccessGeneric.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,18 +21,6 @@
 		22E488DC258A5CD700BEEF5F /* Info-iOS.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Info-iOS.plist"; sourceTree = "<group>"; };
 		22E488F1258A5FF500BEEF5F /* MyDictionaryFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyDictionaryFramework.h; sourceTree = "<group>"; };
 		22E4890E258A60EA00BEEF5F /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
-		22E48930258A6D5400BEEF5F /* UpdateWordProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UpdateWordProtocol.swift; sourceTree = "<group>"; };
-		22E48931258A6D5400BEEF5F /* DeleteWordProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeleteWordProtocol.swift; sourceTree = "<group>"; };
-		22E48932258A6D5400BEEF5F /* FetchWordProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FetchWordProtocol.swift; sourceTree = "<group>"; };
-		22E48933258A6D5400BEEF5F /* CRUDWord.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CRUDWord.swift; sourceTree = "<group>"; };
-		22E48934258A6D5400BEEF5F /* AddWordProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddWordProtocol.swift; sourceTree = "<group>"; };
-		22E48948258A6DB700BEEF5F /* WordModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordModel.swift; sourceTree = "<group>"; };
-		22E48950258A6E3300BEEF5F /* ResultDeletedWord.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultDeletedWord.swift; sourceTree = "<group>"; };
-		22E48951258A6E3300BEEF5F /* FetchResultWordsCount.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FetchResultWordsCount.swift; sourceTree = "<group>"; };
-		22E48952258A6E3300BEEF5F /* ResultSaved.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultSaved.swift; sourceTree = "<group>"; };
-		22E48953258A6E3300BEEF5F /* ResultSavedWord.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultSavedWord.swift; sourceTree = "<group>"; };
-		22E48954258A6E3300BEEF5F /* FetchResultWords.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FetchResultWords.swift; sourceTree = "<group>"; };
-		22E48955258A6E3300BEEF5F /* ResultWithoutSuccessGeneric.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultWithoutSuccessGeneric.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,56 +70,12 @@
 		22C4D528258A5B02008C68B6 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				22E4894F258A6E3300BEEF5F /* Results */,
-				22E48947258A6D7800BEEF5F /* Models */,
-				22E4892E258A6CD800BEEF5F /* Protocols */,
 				22E488F1258A5FF500BEEF5F /* MyDictionaryFramework.h */,
 				22E488DC258A5CD700BEEF5F /* Info-iOS.plist */,
 				22E488DA258A5CD700BEEF5F /* Info-macOS.plist */,
 				22E488DB258A5CD700BEEF5F /* Info-watchOS.plist */,
 			);
 			path = Sources;
-			sourceTree = "<group>";
-		};
-		22E4892E258A6CD800BEEF5F /* Protocols */ = {
-			isa = PBXGroup;
-			children = (
-				22E4892F258A6CF000BEEF5F /* CRUDWord */,
-			);
-			path = Protocols;
-			sourceTree = "<group>";
-		};
-		22E4892F258A6CF000BEEF5F /* CRUDWord */ = {
-			isa = PBXGroup;
-			children = (
-				22E48934258A6D5400BEEF5F /* AddWordProtocol.swift */,
-				22E48933258A6D5400BEEF5F /* CRUDWord.swift */,
-				22E48931258A6D5400BEEF5F /* DeleteWordProtocol.swift */,
-				22E48932258A6D5400BEEF5F /* FetchWordProtocol.swift */,
-				22E48930258A6D5400BEEF5F /* UpdateWordProtocol.swift */,
-			);
-			path = CRUDWord;
-			sourceTree = "<group>";
-		};
-		22E48947258A6D7800BEEF5F /* Models */ = {
-			isa = PBXGroup;
-			children = (
-				22E48948258A6DB700BEEF5F /* WordModel.swift */,
-			);
-			path = Models;
-			sourceTree = "<group>";
-		};
-		22E4894F258A6E3300BEEF5F /* Results */ = {
-			isa = PBXGroup;
-			children = (
-				22E48950258A6E3300BEEF5F /* ResultDeletedWord.swift */,
-				22E48951258A6E3300BEEF5F /* FetchResultWordsCount.swift */,
-				22E48952258A6E3300BEEF5F /* ResultSaved.swift */,
-				22E48953258A6E3300BEEF5F /* ResultSavedWord.swift */,
-				22E48954258A6E3300BEEF5F /* FetchResultWords.swift */,
-				22E48955258A6E3300BEEF5F /* ResultWithoutSuccessGeneric.swift */,
-			);
-			path = Results;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -326,18 +234,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22E48956258A6E3300BEEF5F /* ResultDeletedWord.swift in Sources */,
-				22E4893B258A6D5400BEEF5F /* FetchWordProtocol.swift in Sources */,
-				22E4895F258A6E3300BEEF5F /* ResultSavedWord.swift in Sources */,
-				22E48965258A6E3300BEEF5F /* ResultWithoutSuccessGeneric.swift in Sources */,
-				22E48949258A6DB700BEEF5F /* WordModel.swift in Sources */,
-				22E48938258A6D5400BEEF5F /* DeleteWordProtocol.swift in Sources */,
-				22E48935258A6D5400BEEF5F /* UpdateWordProtocol.swift in Sources */,
-				22E48941258A6D5400BEEF5F /* AddWordProtocol.swift in Sources */,
-				22E4895C258A6E3300BEEF5F /* ResultSaved.swift in Sources */,
-				22E4893E258A6D5400BEEF5F /* CRUDWord.swift in Sources */,
-				22E48959258A6E3300BEEF5F /* FetchResultWordsCount.swift in Sources */,
-				22E48962258A6E3300BEEF5F /* FetchResultWords.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -345,18 +241,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22E48957258A6E3300BEEF5F /* ResultDeletedWord.swift in Sources */,
-				22E4893C258A6D5400BEEF5F /* FetchWordProtocol.swift in Sources */,
-				22E48960258A6E3300BEEF5F /* ResultSavedWord.swift in Sources */,
-				22E48966258A6E3300BEEF5F /* ResultWithoutSuccessGeneric.swift in Sources */,
-				22E4894A258A6DB700BEEF5F /* WordModel.swift in Sources */,
-				22E48939258A6D5400BEEF5F /* DeleteWordProtocol.swift in Sources */,
-				22E48936258A6D5400BEEF5F /* UpdateWordProtocol.swift in Sources */,
-				22E48942258A6D5400BEEF5F /* AddWordProtocol.swift in Sources */,
-				22E4895D258A6E3300BEEF5F /* ResultSaved.swift in Sources */,
-				22E4893F258A6D5400BEEF5F /* CRUDWord.swift in Sources */,
-				22E4895A258A6E3300BEEF5F /* FetchResultWordsCount.swift in Sources */,
-				22E48963258A6E3300BEEF5F /* FetchResultWords.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -364,18 +248,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22E48958258A6E3300BEEF5F /* ResultDeletedWord.swift in Sources */,
-				22E4893D258A6D5400BEEF5F /* FetchWordProtocol.swift in Sources */,
-				22E48961258A6E3300BEEF5F /* ResultSavedWord.swift in Sources */,
-				22E48967258A6E3300BEEF5F /* ResultWithoutSuccessGeneric.swift in Sources */,
-				22E4894B258A6DB700BEEF5F /* WordModel.swift in Sources */,
-				22E4893A258A6D5400BEEF5F /* DeleteWordProtocol.swift in Sources */,
-				22E48937258A6D5400BEEF5F /* UpdateWordProtocol.swift in Sources */,
-				22E48943258A6D5400BEEF5F /* AddWordProtocol.swift in Sources */,
-				22E4895E258A6E3300BEEF5F /* ResultSaved.swift in Sources */,
-				22E48940258A6D5400BEEF5F /* CRUDWord.swift in Sources */,
-				22E4895B258A6E3300BEEF5F /* FetchResultWordsCount.swift in Sources */,
-				22E48964258A6E3300BEEF5F /* FetchResultWords.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
