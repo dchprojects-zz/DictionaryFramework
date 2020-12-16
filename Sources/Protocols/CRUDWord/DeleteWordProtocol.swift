@@ -7,6 +7,6 @@
 
 import Foundation
 
-protocol DeleteWordProtocol {
+public protocol DeleteWordProtocol {
     func delete(byUUID uuid: String, completionHandler: @escaping ResultDeletedWord)
 }

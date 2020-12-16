@@ -7,4 +7,4 @@
 
 import Foundation
 
-typealias CRUDWord = AddWordProtocol & FetchWordProtocol & UpdateWordProtocol & DeleteWordProtocol
+public typealias CRUDWord = AddWordProtocol & FetchWordProtocol & UpdateWordProtocol & DeleteWordProtocol

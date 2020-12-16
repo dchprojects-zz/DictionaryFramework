@@ -7,6 +7,6 @@
 
 import Foundation
 
-protocol AddWordProtocol {
+public protocol AddWordProtocol {
     func add(word: WordModel, completionHandler: @escaping ResultSavedWord)
 }
